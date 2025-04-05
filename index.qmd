@@ -8,7 +8,7 @@ format:
 
 # 👋 Hi, I'm Liyang
 
-🎓 Graduate Student at **Boston University**, majoring in **Marketing**  
+🎓 Graduate Student at **Boston University**, majoring in **business analysis**  
 📊 Passionate about **data analytics**, **digital strategy**, and **storytelling**  
 💼 Skilled in SQL, Excel, Quarto, Web Development, and Visualization  
 🎯 Career goal: To become a **Market Research Analyst** helping businesses make smart decisions
