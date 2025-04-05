@@ -1,0 +1,39 @@
+---
+title: "Projects"
+---
+
+# 📊 Featured Projects
+
+---
+
+<div class="card">
+
+### 🧠 Automotive Hot Stamping Intelligent Process System
+
+- Designed and developed a **machine learning-based optimization system** for automotive hot stamping processes.  
+- Built a **neural network model** and implemented an **SQL database schema** to analyze production data.  
+- Developed a **web interface using PHP**, enhancing system interactivity and usability.  
+- Conducted in-depth literature review of over 20 sources, producing a comprehensive technical report.
+
+🛠 Tools: SQL, PHP, Machine Learning, Web Development  
+📚 Skills: Research, Model Design, System Implementation
+
+</div>
+
+---
+
+<div class="card">
+
+## 🏆 Debate & Publicity Leadership
+
+- Vice Leader of the university debate team, **multiple award-winning speaker**.
+- Led content creation for the school's public account, achieving **200,000+ total views**.
+- Directed a nationally recognized student publicity team, ranked top in national influence.
+
+📚 Skills: Public Speaking, Copywriting, Digital Media Operations
+
+</div>
+
+---
+
+Want to learn more? See my full resume [here](cv.qmd) or get in touch [here](contact.qmd).

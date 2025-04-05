@@ -1,0 +1,39 @@
+---
+title: "CV"
+---
+
+# 📄 Curriculum Vitae
+
+You can download my full resume in PDF format below:
+
+👉 [Download Resume (PDF)](files/CV-ZhouLiyang.pdf)
+
+---
+
+## 🔍 Summary
+
+Graduate of Wuhan University of Technology, with a background in Vehicle Engineering and strong interest in marketing, data analytics, and strategic communication.  
+
+Skilled in SQL, PHP, Microsoft Office Suite, CAD, and web development. Interned at POIZON and Huawei Cloud with experience in user research, data modeling, and digital branding.
+
+---
+
+## 🛠 Skills
+
+- **Languages & Tools**: SQL, PHP, Microsoft Excel, PivotTables, VLOOKUP, MATLAB, CAD  
+- **Soft Skills**: Strategic Thinking, Data Interpretation
+
+---
+
+## 🏅 Awards & Activities
+
+- 🏆 Champion – 2020 Chinese Debate World Cup, Wuhan Division  
+- 🥇 First Prize – 2020 Bello Pegasus Debate  
+- 🥇 First Prize – 2021 Water Transport Huguang Debate  
+- 📢 Vice Leader – School Debate Team  
+- 📈 Publicity Head – 35+ WeChat articles, 200,000+ views
+
+---
+
+🔗 For more projects, see [Projects](projects.qmd)  
+📬 Want to connect? Visit my [Contact Page](contact.qmd)

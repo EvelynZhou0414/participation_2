@@ -1,0 +1,22 @@
+---
+title: "About"
+---
+
+# 👋 Hi, I'm Liyang Zhou
+
+I'm currently a graduate student at Boston University, majoring in Business analysis.  
+I’m passionate about data analysis, storytelling, and using technology to solve real-world business problems.
+
+This personal site is a portfolio of my academic work, projects, and resume.  
+It is designed to showcase my technical and analytical skills to future employers.
+
+---
+
+## ✨ Interests
+
+- Data Visualization & Business Intelligence  
+- Marketing Analytics & Consumer Insights  
+- Machine Learning
+- Tools: Python, R, Excel, Quarto, Spark
+
+---

@@ -1,0 +1,39 @@
+---
+title: "Liyang Zhou"
+format:
+  html:
+    toc: false
+    css: styles.css
+---
+
+# 👋 Hi, I'm Liyang
+
+🎓 Graduate Student at **Boston University**, majoring in **Marketing**  
+📊 Passionate about **data analytics**, **digital strategy**, and **storytelling**  
+💼 Skilled in SQL, Excel, Quarto, Web Development, and Visualization  
+🎯 Career goal: To become a **Market Research Analyst** helping businesses make smart decisions
+
+---
+
+## 📌 What You'll Find Here
+
+- **About Me** – learn more about my academic background & goals  
+- **Projects** – portfolio of real-world projects and case studies  
+- **CV** – downloadable resume (PDF)  
+- **Contact** – ways to connect with me
+
+---
+
+<div style="margin-top: 2rem;">
+  <a href="contact.qmd" style="
+    display: inline-block;
+    background-color: #6a5acd;
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1rem;">
+    📬 Get in Touch
+  </a>
+</div>

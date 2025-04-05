@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Liyang Zhou"
+  navbar:
+    left:
+      - text: About You
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+output-dir: docs
+
+
+
